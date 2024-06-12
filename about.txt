@@ -1,0 +1,136 @@
+<html>
+<body background=background.jpg>
+
+<title>E-Resume of Ilya Rodzariah</title>
+
+<font face="Arial" >
+
+<title>MY RESUME</title>
+
+<table>
+<td><img src="banner resume.jpg" width=1350 height=300></td>
+</table>
+
+<head>
+<center>
+<a href="home.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+border-radius;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">HOME <a/>
+<a href="about.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">ABOUT <a/>
+<a href="background.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;"></i>BACKGROUND </a>
+<a href="awards and extra.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">AWARDS AND EXTRA-CURRICULAR</a>
+<a href="skills.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;"></i>SKILLS</a>
+<a href="contact me.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">CONTACT ME</a>
+</center>
+</head>
+
+<body>
+<p><center>
+<table style="background-color: #FFEF6B;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">
+<th><font size=30>PERSONAL DETAILS</font></th>
+<tr><td><center>
+<p>Name: ILYA RODZARIAH BINTI BUSHRAH</p>
+<p>Age: 23 years old</p>
+<p>Race: Malay</p>
+<p>Religion: Islam</p>
+<p>Marital Status: Single</p></center></td>
+</tr>
+</center>
+</table>
+</p>
+<p>
+<table style="background-color: #FFEF6B;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">
+<th><font size=30>CAREER OBJECTIVE</font></th>
+<tr><td><p><center>Aspiring finance professional with a diploma in accountancy and currently pursuing a degree in finance. Seeking to leverage my academic knowledge and analytical skills to contribute effectively to a finance or accounting team.</p></center></td>
+</tr>
+
+</table>
+</p>
+</body>
+
+<footer><center>
+<div class="copyright">
+        <p>&copy; 2024 Ilya Rodzariah. All rights reserved.</p>
+    </div>
+  </center></footer>
+
+</html>

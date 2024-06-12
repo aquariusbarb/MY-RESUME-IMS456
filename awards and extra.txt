@@ -1,0 +1,181 @@
+<html>
+<body background=background.jpg>
+
+<title>E-Resume of Ilya Rodzariah</title>
+
+<font face="Arial" >
+
+<title>MY RESUME</title>
+
+<table>
+<td><img src="banner resume.jpg" width=1350 height=300></td>
+</table>
+
+<head>
+<center>
+<a href="home.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+border-radius;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">HOME <a/>
+<a href="about.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">ABOUT <a/>
+<a href="background.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;"></i>BACKGROUND </a>
+<a href="awards and extra.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">AWARDS AND EXTRA-CURRICULAR</a>
+<a href="skills.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;"></i>SKILLS</a>
+<a href="contact me.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">CONTACT ME</a>
+</center>
+</head>
+
+<body>
+<table table style="background-color: #FFEF6B;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;">
+<th colspan="3"><font size=30>AWARDS RECEIVED</th>
+<tr>
+<td>
+<p><b>2024</b></p>
+<p>🎖Dean's List Award (Semester 2 of Bachelor in Business Administration (Hons) Finance)<p></td>
+<td>
+<p><b>2023</b></p>
+<p>🎖Dean's List Award (Semester 1 of Bachelor in Business Administration (Hons) Finance)
+<p><left><i class='fas fa-book'></i>🎖Vice Chancellor's Award for Diploma in Accountancy</left></p></td>
+<td>
+<p><b>2022</b></p>
+<p>🎖Excellent Student Award of Faculty of Accountancy (Diploma) for Semester March-August</p></td>
+</tr>
+</table>
+<p><center>
+<table style="background-color: #FFEF6B;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;">
+<th><font size=30>EXTRACURRICULAR ACTIVITIES</font></th>
+<tr>
+<td><p><b><u>2024-Present</u></b></p>
+<p>Treasurer of BAFIN Associations, <i>Universiti Teknologi MARA (UiTM) Sarawak</i></p>
+<p>Managed club finances and budgeting</p></td>
+</tr>
+<tr>
+<td><p><b><u>2023-2024</u></b></p>
+<p>SJPK Kolej Seri Serapi<i>Universiti Teknologi MARA (UiTM) Sarawak</i></p>
+<p>Managed the residents' welfare</p></td>
+</tr>
+<tr>
+<td><p><b><u>2021-2022</u></b></p>
+<p>Exco Multimedia of MEDIA Associations<i>Universiti Teknologi MARA (UiTM) Sarawak</i></p>
+<p>Responsible for overseeing digital communications, managing multimedia projects, and enhancing the organization's online presence.</p></td>
+</tr>
+</center>
+</table>
+<p><center>
+<table style="background-color: #FFEF6B;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;">
+<th><font size=30>PROJECTS</font></th>
+<tr>
+<td><p><b><u>2024</u></b></p>
+<p>Organizer of Financial Literacy Program (collaboration with UNIMAS)</p></td>
+</tr>
+<tr>
+<td><p><b><u>2023</u></b></p>
+<p>Participant of Bengkel Asas Kayak Siri 1 Kelab Kanu UiTM Sarawak</p>
+<p>Organizer of Community Program: Bejalai Begiga Penemu</p></td>
+</tr>
+<tr>
+<td><p><b><u>2022</u></b></p>
+<p>Participant of Program Usahawan, organised by Institut Keusahawanan Negara (INSKEN)</p></td>
+</tr>
+<tr>
+<td><p><b><u>2021</u></b></p>
+<p>Organizer of Corporate Social Responsibility Program: Building Community Through Giving</p></td>
+</tr>
+
+</center>
+</table>
+
+</body>
+
+<footer><center>
+<div class="copyright">
+        <p>&copy; 2024 Ilya Rodzariah. All rights reserved.</p>
+    </div>
+  </center></footer>
+
+</html>

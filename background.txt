@@ -1,0 +1,123 @@
+<html>
+<body background=background.jpg>
+
+<title>E-Resume of Ilya Rodzariah</title>
+
+<font face="Arial" >
+
+<title>MY RESUME</title>
+
+<table>
+<td><img src="banner resume.jpg" width=1350 height=300></td>
+</table>
+
+<head>
+<center>
+<a href="home.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+border-radius;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">HOME <a/>
+<a href="about.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">ABOUT <a/>
+<a href="background.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;"></i>BACKGROUND </a>
+<a href="awards and extra.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">AWARDS AND EXTRA-CURRICULAR</a>
+<a href="skills.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;"></i>SKILLS</a>
+<a href="contact me.html" style="background-color: #C4E767;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;
+    cursor: pointer;">CONTACT ME</a>
+</center>
+</head>
+
+<body>
+<p><center>
+<table style="background-color: #FFEF6B;  
+    border: none;
+    color: black;
+    padding: 11px 27px;
+    text-align: center;
+    box-shadow: 2px 2px 2px #333333;
+	text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px 1px;">
+<th colspan=3><font size=30>EDUCATION BACKGROUND</font></th>
+<tr>
+<td><p><b>First highest education</b></p>
+<img src="bafin.png" width=150 height=150>
+<p><u>2023 – Present</u></p>
+<p>Bachelor in Business Administration (Hons) Finance at Universiti Teknologi Mara with a 3.81 CGPA</p></td>
+<td><p><b>Second highest education</b></p>
+<img src="media.png" width=150 height=150>
+<p><u>2020 – 2022</u></p>
+<p>Diploma in Accountancy at Universiti Teknologi Mara with a 3.81 CGPA</p></td>
+<td><p><b>Third highest education</b></p>
+<img src="sainsku.png" width=150 height=150>
+<p><u>2014 – 2018</u></p>
+<p>Sijil Pelajaran Malaysia (SPM) at SM Sains Kuching with 3A+, 3A, 1B+, 1B, and 1C+</p></td>
+</tr>
+</margin>
+</table>
+</body>
+
+<footer><center>
+<div class="copyright">
+        <p>&copy; 2024 Ilya Rodzariah. All rights reserved.</p>
+    </div>
+  </center></footer>
+
+</html>
